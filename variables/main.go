@@ -17,6 +17,7 @@ func main() {
 	fmt.Println(nombre)
 	// veremos que ahora el nombre que nos saldra por consola sera "Eva"
 
+	
 
 	// Ahora definimos varias variables al mismo tiempo
 	var a, b, c string = "Manuel", "Manuel", "Alex"
@@ -47,22 +48,12 @@ func main() {
 
 	fmt.Println(v1,v2)
 
-
 	// AHORA TRABAJAREMOS CON CONSTANTES
 	// las constantes no cambian como las variables, y las definimos con la palabra reservada "const"
 	
 	const n = 100
 	
-
 	//ahora la llamamos con el metodo fmt y su operador Println
 	fmt.Println(n, nombre)
-
-
-
-
-
-
-
-
 
 }
