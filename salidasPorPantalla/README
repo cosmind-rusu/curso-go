@@ -1,0 +1,5 @@
+Otro forma de mostrar estos datos es usando Printf que lo que hace es formatear nuestros datos y usando otros caracteres especiales.
+
+%s para mostrar datos de tipo string
+%d para mostrar datos de tipo entero
+%f paÍa mostrar datos de tipo flotante
