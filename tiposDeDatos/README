@@ -11,3 +11,23 @@ Rango de valores de números enteros
 • int64 - 64-bits (-9223372036854775808 a 9223372036854775807)
 
 ••••••••••••••••••••••••••••••••••••••
+
+Rango de valores de números flotantes
+••••••••••••••••••••••••••••••••••••••
+
+• float32
+• float64
+• complex64
+• complex128
+
+••••••••••••••••••••••••••••••••••••••
+
+Otra implementación de tipo de datos en Go.
+•••••••••••••••••••••••••••••••••••••••••••••
+
+byte - 8-bits (0 a 255)
+rune - 32-bits (-2147483648 a 2147483647)
+uint - 32 064 bits
+int - 32 064 bits
+
+••••••••••••••••••••••••••••••••••••••••••••••
