@@ -1,0 +1,24 @@
+LAS PALABRAS RESERVADAS DE GO
+
+break
+case
+chan
+const
+continue
+default
+defer
+fallthrough
+for
+func
+goto
+import
+interface
+map
+package
+range
+return
+select
+struct
+switch
+type
+var
