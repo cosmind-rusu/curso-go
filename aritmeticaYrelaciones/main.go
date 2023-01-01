@@ -5,6 +5,8 @@ import "fmt"
 func main() {
 	// #################################### OPERADORES ARITMETICOS ####################################
 
+	fmt.Println("OPERADORES ARITMETICOS")
+
 	// CREAMOS VARIABLES
 	var a, b int
 	// ENTRADA DE DATOS
@@ -34,14 +36,25 @@ func main() {
 	// CREAMOS VARIABLES
 	var c, d int
 	// ENTRADA DE DATOS
-	fmt.Println("Ingresa el primer numero: ")
+	fmt.Println("Ingresa c: ")
 	fmt.Scanln(&c)
-	fmt.Print("Ingrese el segundo numero: ")
+	fmt.Print("Ingrese d: ")
 	fmt.Scanln(&d)
 
 	// PROCESOS
-	
+	igualdad := c == d
+	distintos := c != d
+	mayorQue := c > d
+	menorQue := c < d
+	mayorIgual := c >= d
+	menorIgual := c <= d
 
 	// SALIDA DE DATOS
+	fmt.Println("Son iguales? ", igualdad)
+	fmt.Println("Son distintos? ", distintos)
+	fmt.Println("c es mayor que d? ", mayorQue)
+	fmt.Println("c es menor que d? ", menorQue)
+	fmt.Println("c es mayor o igual que d? ", mayorIgual)
+	fmt.Println("c es menor o igual que d? ", menorIgual)
 
 }
