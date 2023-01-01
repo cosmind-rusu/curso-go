@@ -1,0 +1,11 @@
+Operador        Descripción         Ejemplo
+
+==              IGUALDAD            a == b devuelve false
+!=				DISTINTOS			a != b devuelve true
+>				MAYOR QUE			a > b devuelve false
+<				MENOR QUE           a < b devuelve false               
+>=				MAYOR O IGUAL QUE	a >= b devuelve false
+<=              MENOR O IGUAL QUE   a <= b devuelve true        
+                                    
+                                    
+                
