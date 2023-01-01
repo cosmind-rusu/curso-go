@@ -4,7 +4,5 @@ NOT (!)
 
 Lo que hace es negar su valor. Si su valor es true lo negara false.
 
-```
-  // NEGACION
-  fmt.Println(! true);
-```
+fmt.Println(! true);
+
