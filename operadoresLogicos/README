@@ -6,3 +6,18 @@ Lo que hace es negar su valor. Si su valor es true lo negara false.
 
 fmt.Println(! true);
 
+##################################
+
+AND (&&)
+
+Lo que hace es comprobar dos valores booleanos y devuelve otro valor booleano, solo cuando ambos son true devuelven true.
+
+fmt.Println(true && true);
+
+##################################
+
+OR (||)
+
+Lo que hace es tambien comprobar dos valores booleanos y devuelve otro valor booleano, en este caso ambos o almenos uno tiene que ser true para que devuelva true.
+
+fmt.Println(false || true);
