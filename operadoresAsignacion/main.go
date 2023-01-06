@@ -21,4 +21,9 @@ func main() {
         fmt.Println(b)
     }
 	fmt.Println("OPERADORES DE INCREMENTO")
+
+	
+
+
+
 }
